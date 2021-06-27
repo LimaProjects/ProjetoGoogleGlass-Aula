@@ -41,7 +41,7 @@ body {
 img#icone-2 {
 	position: absolute;
 	top: 80px;
-	left: 1160px;
+	left: 1060px;
 }
 
 img#logo {
@@ -76,7 +76,7 @@ header#cabecalho-titulo h2 {
 nav#menu {
 	list-style: none;
 	position: absolute;
-	margin-left: 600px;
+	margin-left: 560px;
 	top: -20px;	
 }
 
