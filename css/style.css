@@ -44,7 +44,7 @@ body p {
 
 img#icone {
 	position: absolute;
-	left: 340px;
+	left: 310px;
 	top: -100px;
 }
 
@@ -205,8 +205,8 @@ figure.foto-legenda img {
 	background-color: #dddddd;
 	padding: 30px;
 	top: -140;
-	max-width: 460px;
-	left: 722px;
+	max-width: 420px;
+	left: 720px;
 }
 
 #segundo-artigo h1 {
@@ -293,7 +293,7 @@ section aside div#div-video-2 {
 }
 
 section aside div#div-video-2 video#video-02 {
-	width: 400;
+	width: 360;
 } 
 
 /*formatação rodapé*/
